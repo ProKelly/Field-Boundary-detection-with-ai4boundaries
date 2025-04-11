@@ -12,7 +12,7 @@ d'Andrimont, R., Claverie, M., Kempeneers, P., Muraro, D., Yordanov, M., Peressu
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install `ai4boundaries` like below. 
 Rerun this command to check for and install  updates.
 ```bash
-pip install git+https://github.com/waldnerf/ai4boundaries
+pip install git+https://github.com/ProKelly/Field-Boundary-detection-with-ai4boundaries.git
 ```
 
 #### Demo of some of the features:
