@@ -7,7 +7,7 @@ from tqdm import tqdm
 import time
 
 # URL of data set
-url = 'http://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/DRLL/AI4BOUNDARIES/'
+url = 'https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/DRLL/AI4BOUNDARIES/'
 
 
 def download_file(url, dst_path):
@@ -33,7 +33,7 @@ def download_ai4boundaries(dir):
     :param dir: Path to directory where to save the data
 
     """
-    url = 'http://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/DRLL/AI4BOUNDARIES/'
+    url = 'https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/DRLL/AI4BOUNDARIES/'
     urls = []
     url_fns = []
 
