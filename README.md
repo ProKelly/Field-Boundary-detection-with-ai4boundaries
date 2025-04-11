@@ -19,7 +19,7 @@ pip install git+https://github.com/ProKelly/Field-Boundary-detection-with-ai4bou
 ```python
 from ai4boundaries import download_ai4boundaries
 
-dir = '/path/to/ai4boundaries_data'
+dir = '/content/drive/MyDrive/ecosystem+/field'
 download_ai4boundaries(dir)
 
 
